@@ -4,7 +4,7 @@
 
 ## Le challenge
 
-Création d'une horloge analogique et d'une horloge numérique en HTML, CSS et JavaScript.
+Création d'une horloge analogique et d'une horloge numérique en HTML5, CSS3 et JavaScript.
 
 ## Démonstration
 
