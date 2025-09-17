@@ -1,6 +1,6 @@
 ## HORLOGES ANALOGIQUE ET NUMERIQUE 🕐
 
-![Design preview for the project](./img/banner.png)
+![Design preview for the project](./img/preview.png)
 
 ## Le challenge
 
@@ -16,5 +16,8 @@ Lien vers le projet : https://aperbet56.github.io/horloges/
 - CSS3
 - Flexbox
 - Animation CSS
+- Desktop first
+- Page web responsive
+- Utilisation d'un normaliseur : le fichier normalize.css
 - JavaScript
 - Code JavaScript commenté
