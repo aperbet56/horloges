@@ -84,19 +84,19 @@ body {
     border-radius: 5px;
 }
 
-/**** div id time horloge numérique ****/
+/**** div id time Horloge numérique ****/
 
 #time {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 26px;
-    font-weight: bold;
 }
 
 .date,
 .time {
+    font-size: 26px;
+    font-weight: bold;
     padding: 15px 10px;
     text-align: center;
 }
